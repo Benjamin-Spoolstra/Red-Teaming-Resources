@@ -16,6 +16,7 @@ This repository is a collection of tools, cheatsheets, guides, and reference mat
 ## C2 Infrastructure & Redirectors
 
 - [Azure Static Web App C2 Redirector](https://rosesecurity.gitbook.io/red-teaming-ttps/guides/azurestaticwebapplicationc2redirectors) - Guide for setting up C2 redirection using Azure Static Web Apps
+- [Sliver C2](https://github.com/bishopfox/sliver) - An open source, modern C2 framework with cross-platform support and compile time payload obfuscation
 
 ## OSINT & Reconnaissance
 

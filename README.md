@@ -23,7 +23,7 @@ This repository is a collection of tools, cheatsheets, guides, and reference mat
 - [OSINT Framework](https://osintframework.com/) - Interactive directory of OSINT tools organized by category
 - [Awesome-OSINT-List](https://github.com/Astrosp/Awesome-OSINT-List) - Curated list of OSINT resources and tools
 - [bbot](https://github.com/blacklanternsecurity/bbot) - Recursive internet scanner for automated OSINT and attack surface mapping
-- [Google Dorks for Bug Bounty](https://taksec.github.io/google-dorks-bug-bounty/) = Curated Google dork queries for recon and bug bounty hunting
+- [Google Dorks for Bug Bounty](https://taksec.github.io/google-dorks-bug-bounty/) - Curated Google dork queries for recon and bug bounty hunting
 
 ## Web Application Pentesting & Payloads
 

